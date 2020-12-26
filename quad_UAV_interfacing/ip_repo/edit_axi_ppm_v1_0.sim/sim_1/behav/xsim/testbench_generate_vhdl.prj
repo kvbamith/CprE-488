@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../edit_axi_ppm_v1_0.srcs/sources_1/new/FSM_generate.vhd" \
+"../../../../edit_axi_ppm_v1_0.srcs/sim_1/new/testbench_generate.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="3504388fs"></ZoomEndTime>
+      <Cursor1Time time="22418668000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="114"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/testbench/my_in" type="logic">
+      <obj_property name="ElementShortName">my_in</obj_property>
+      <obj_property name="ObjectShortName">my_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/input_state" type="other">
+      <obj_property name="ElementShortName">input_state</obj_property>
+      <obj_property name="ObjectShortName">input_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_PPM_Input" type="logic">
+      <obj_property name="ElementShortName">s_PPM_Input</obj_property>
+      <obj_property name="ObjectShortName">s_PPM_Input</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_CH1_count" type="array">
+      <obj_property name="ElementShortName">s_CH1_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_CH1_count[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_CH2_count" type="array">
+      <obj_property name="ElementShortName">s_CH2_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_CH2_count[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_CH3_count" type="array">
+      <obj_property name="ElementShortName">s_CH3_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_CH3_count[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_CH4_count" type="array">
+      <obj_property name="ElementShortName">s_CH4_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_CH4_count[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_CH5_count" type="array">
+      <obj_property name="ElementShortName">s_CH5_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_CH5_count[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_CH6_count" type="array">
+      <obj_property name="ElementShortName">s_CH6_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_CH6_count[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_frame_Detect" type="logic">
+      <obj_property name="ElementShortName">s_frame_Detect</obj_property>
+      <obj_property name="ObjectShortName">s_frame_Detect</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_Y" type="array">
+      <obj_property name="ElementShortName">s_Y[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s_Y[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/capturing/count_out" type="array">
+      <obj_property name="ElementShortName">count_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">count_out[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/capturing/count" type="array">
+      <obj_property name="ElementShortName">count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">count[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_sample_vector" type="array">
+      <obj_property name="ElementShortName">s_sample_vector[4:0]</obj_property>
+      <obj_property name="ObjectShortName">s_sample_vector[4:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
